@@ -8,7 +8,7 @@ zil1z4hxwnqk9gu6tamcw4umxss9wjpmrkhzdh4n85
 Other stablecoins like xsgd and soon mDAI can be swapped at fixed rates to FRANC and vice versa.
 It runs live on https://Mafre-Swap.mambo.li 
 
-We may run other MamboSwaps in futher and update the contract and GUI.
+We may run other MamboSwaps in future and update the contract and GUI.
 
 Future tasks will be: the BUY and SELL exchange rate accuracy is currently on two decimals only. 
 A future updat should make it possibe to have at least 4 decimals accuracy.
