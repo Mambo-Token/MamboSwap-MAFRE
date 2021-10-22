@@ -7,9 +7,15 @@ zil1pfvzz9vqpc60j3l2n3ltc586l65gvahj85xxg7
 The basic Swap Token of this contract is set at FRANC, Chocolate Stablecoin.
 zil1z4hxwnqk9gu6tamcw4umxss9wjpmrkhzdh4n85
 
-First stablecoin to be swapped wiht FRANC is XSGD
+$Franc is the basic currency on MamboSwap.
+$Franc can currently be swapped at fixes rates to following tokens (will be updated occasionally):
+$XSGD
+$zUSDT
+$MILKY
+$mUSD
+$THANKS
+other stablecoins will be added.
 
-Soon other stablecoins like mUSD, Baby Stable,  can be swapped at fixed rates to FRANC and vice versa.
 
 It runs live on https://Mafre-Swap.mambo.li 
 
