@@ -1,4 +1,13 @@
 # MamboSwap-MAFRE
+
+update August 2024: Mambo moved it's activity out of zilliqa to kaspa since June 2024.
+The information below is maintained for view only to give a track record of our activities.
+MamboSwaps fixed rates Exchange was probably the first if it's kind and an good tool for fair launches.
+We made proof of concept with the help of MamboSwap for our former "stablecoin" concept.
+In future we will focus on solidcoins (not stablecoins) to completely abandon the fiat shitcoin world.
+We plan to develop in future and even more sophisticated fixed rates swap on Kaspa, once it is smart contract ready.
+Stay tune? https://t.me/MamboToken 
+
 Contract Code and address of MamboSwap - Infos and further Development
 First of it's kind Fixed Rated Swap from mambo.li.
 MAFRE, MamboSwap Automated Fixed Rates Exchange contract address on ziliqa is:
